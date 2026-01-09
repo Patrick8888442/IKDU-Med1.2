@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5b8d538c87c33954cbc69b1ad2928325
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireVFX: {fileID: 8605291367684522974, guid: 771352a3c21ca95448f5012cabdb5ff0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
